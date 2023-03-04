@@ -1,4 +1,5 @@
 ---
+permalink: /ghosstory/
 title: "Ghost from the Quilt"
 date: 2023-03-04
 ---
